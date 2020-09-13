@@ -137,7 +137,7 @@ To start and run the local development server,
   ```
   $ export FLASK_APP=myapp
   $ export FLASK_ENV=development # enables debug mode
-
+  ```
 4. Migrate the DB
   ```
   $ python manage.py db init
